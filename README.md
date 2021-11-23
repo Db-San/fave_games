@@ -1,5 +1,5 @@
 # Favegames-Python
-A simple terminal app made for just for fun. This was made as an intention of learning Python.
+A simple terminal app made just for fun. This was made as an intention of learning Python.
 
 # Features
 -  It asks people for their favorite games and saves them, oh yeah!
