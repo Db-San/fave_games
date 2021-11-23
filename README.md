@@ -1,5 +1,9 @@
 # Favegames-Python
-A simple terminal app made with Python. This was made as a fun project with the intention of learning Python.
+A simple terminal app made just for fun. This was made as an intention of learning Python.
+
+# Features
+- It asks people for their favorite games and saves them, oh yeah!
+- It also shows previously saved games by entering "1" as your option.
 
 # Requirements
 - Python 3.x
