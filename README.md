@@ -1,5 +1,5 @@
-# Favegames-Python
-A simple terminal app made just for fun. This was made as an intention of learning Python.
+# fave_games
+A terminal app made with the intent of learning Python.
 
 # Features
 - It asks people for their favorite games and saves them, oh yeah!
@@ -10,6 +10,6 @@ A simple terminal app made just for fun. This was made as an intention of learni
 
 # Run in Replit ⠕
 
-You can also run Favegames-Python in Replit ⠕, a free online coding environment.
+You can also run fave_games in Replit ⠕, a free online coding environment.
 
-[Try it now!](https://replit.com/@dominic-salvado/Favegames-Python#main.py) (start here!)
+[Try it now!](letters) (start here!)
