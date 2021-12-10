@@ -12,4 +12,4 @@ A terminal app made with the intent of learning Python.
 
 You can also run fave_games in Replit ⠕, a free online coding environment.
 
-[Try it now!](letters) (start here!)
+[Try it now!](https://replit.com/@dominic-salvado/favegames) (start here!)
